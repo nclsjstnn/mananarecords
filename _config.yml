@@ -1,0 +1,16 @@
+# Site settings
+title: Mañana Records
+email: contacto@mañanarecords.com
+description: > # 
+  Desde el corazón de nuestra américa morena, 
+  nacen los sonidos latinos como latidos, 
+  la música del futuro se crea, 
+  fluye y vive en nuestra sangre.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
