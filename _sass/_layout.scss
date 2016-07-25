@@ -197,9 +197,19 @@
 
 .site-title img {
     width: 250px;
-
+    margin: 40px auto 20px auto;
 }
-.title-desc {
-    font-weight: bolder !important;
+.title {
+    font-size: 30px;
     line-height: 25px;
+    font-family: $base-font-family-bold;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+
+
+.title-2 {
+    margin-top: 30px;
+
 }

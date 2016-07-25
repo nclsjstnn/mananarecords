@@ -7,4 +7,9 @@ preview: /assets/images/artworks-000103153908-aikhh9-t500x500.jpg
 
 ![Picture 1](/assets/images/artworks-000103153908-aikhh9-t500x500.jpg){: class="fullsize"}
 
-Bavaria ipsum dolor sit amet g’hupft wia gsprunga wolln dringma aweng oba Biazelt hogg di hera helfgod. Sog i hawadere midananda nomoi a bissal wos gehd ollaweil gor kumm geh naa jo leck mi, Xaver: Weiznglasl i hob di liab des muas ma hoid kenna.
+Mañaneros is conformed by:
+Cristian Gonzalez: Trigger Finger, Percussions
+Pablo Rubio: Bass, Synths
+Matias Torrealba: Voice and kaosspad
+Julio Quiroz: Keytar, Minotaur
+Nicolás Justiniano: Guitarrist
