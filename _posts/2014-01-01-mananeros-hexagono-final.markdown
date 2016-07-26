@@ -7,6 +7,7 @@ preview: /assets/images/artworks-000051023379-rnbmtn-t500x500.jpg
 
 ![Mañaneros - Hexágono Final](/assets/images/artworks-000051023379-rnbmtn-t500x500.jpg){: class="fullsize"}
 Si el primer disco de esta banda fue una catarsis de sonidos ambientales y ritmos latinoamericanos, "Hexágono Final" viene a entregar un disco más completo, en donde canciones como Paragua Danger, Lamento y Sra. Jocelyn sobresalen por sus pegajosas armonías y texturas. 
+
 **Prensa:**
 
 [Tacondeoro.com](http://tacondeoro.com/home/mananeros-hexagono-final-2/)
