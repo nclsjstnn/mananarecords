@@ -13,10 +13,12 @@ preview: /assets/images/Estacion Espacial Mañana Records.jpg
 	</div>
 </div>
 
+
 ESTACIÓN ESPACIAL
 
 Estación Espacial (Space Station) is the work of Carlos Ojeda, a young Chilean musician and advertising monkey hailing from southern Chile (Puerto Montt). Hints of krautrock, “old-school” noise record-inspired music is what you can expect from this former thrasher band frontman, who has slightly transitioned to experimental sounds during his later years. Keep an eye on him if you’re into CAN, Throbbing Gristle and other weird 70’s stuff!
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D3_rOKfQ3M4?rel=0" frameborder="0" allowfullscreen></iframe>
 
 //////////////////////////////
 
