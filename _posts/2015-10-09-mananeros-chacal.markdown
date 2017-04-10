@@ -1,29 +1,21 @@
 ---
 layout: post
-title:  "Mañaneros - Chacal [2016]"
+title:  "Mañaneros Chacal"
 date:   2015-10-09 15:39:40
 preview: /assets/images/artworks-000147830750-xmar0i-t500x500.jpg
+code: MR_04/LP/2016
 ---
 
-<div class="col-md-12 col-sm-12 ratio-1:1 bg-grey" style="max-height:100%">
-	<div>
-		<iframe class="square" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/193345742&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-	</div>
-</div>
+![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
+`[{{ page.code }}]` {% include mananeros_bio.html %}
 
-Chacal es el reciente LP de Mañaneros, disco que te invita a bailar, a reflexionar y a viajar a los rincones más oscuros del sonido, aquí la banda sigue en la búsqueda y experimentación con ritmos sincopados, si tuviesemos que taguearlos pondríamos: #Satánico #Housero #OVNI #Darks y #Sabrozón. 
+Chacal es el reciente LP de Mañaneros, disco que te invita a bailar, a reflexionar y a viajar a los rincones más oscuros del sonido, aquí la banda sigue en la búsqueda y experimentación con ritmos sincopados, si tuviesemos que taguearlos pondríamos: #Satánico #Housero #OVNI #Darks y #Sabrozón.
 
-//////////////////////////////
+<iframe width="100%" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/193345742&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-Mañaneros is:
+**GET MAÑANEROS ALBUM**<br>
+[Hexágono Final on Soundcloud](https://soundcloud.com/mananeros/sets/hexagonofinal)<br>
+[Hexágono Final on Youtube](https://www.youtube.com/watch?v=aG5-YZx2JLA&list=PL9tNcJHjgqQEUzoXa1Gu4Y166S2x0MqaM)<br>
 
-Cristian Gonzalez: Trigger Finger, Percussions
-
-Pablo Rubio: Bass, Synths
-
-Matias Torrealba: Voice and kaosspad
-
-Julio Quiroz: Keytar, Minotaur
-
-Nicolás Justiniano: Guitar
+{% include followus.html %}

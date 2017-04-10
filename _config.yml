@@ -1,17 +1,16 @@
 # Site settings
 title: Mañana Records
-email: contacto@manañarecords.com
+email: hello@mananarecords.com
 description: > # 
-  MAÑANA RECORDS IS CHACALEST MUSIC FOR THE DANCE AND FOR THE PEOPLE. 
-  COME AND JOINS US LETS START THIS PARTY AND DANCE APRETADO NENA
+    We are a novel Net Label from Santiago de Chile. Our catalog goes from tribal guarachero to krautrock with strokes of cumbia, chilean new wave, folk rock, and also pop. Only the chacalest music "for the dance and for the people".
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mananarecords.com" # the base hostname & protocol for your site
 
 #Channels
 youtube_channel: mananarecords
 soundcloud_channel: mananarecords
-facebook_channel:  Mañana-Records-1687540664828672
-twitter_channel: MananaRecords
+facebook_channel:  mananarecords
+twitter_channel: mananarecords
 
 
 # Build settings
