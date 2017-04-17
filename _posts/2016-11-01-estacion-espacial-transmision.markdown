@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Estación Espacial, Transmisión Vía Satélite"
-date: 2016-01-01 15:39:40
+title: "Estación Espacial. Transmisión Vía Satélite"
+date: 2016-11-01 15:39:40
 preview: /assets/images/COVER_TRANSMISION.jpg
-code: MR_05/EP/2016
+code: MR_05EP2016
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

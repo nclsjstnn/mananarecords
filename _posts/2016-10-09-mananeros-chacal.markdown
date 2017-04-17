@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Mañaneros Chacal"
-date:   2015-10-09 15:39:40
+title:  "Mañaneros. Chacal"
+date:   2016-10-09 15:39:40
 preview: /assets/images/artworks-000147830750-xmar0i-t500x500.jpg
-code: MR_04/LP/2016
+code: MR_04LP2016
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Comanches, Comanches"
+title: "Comanches"
 date: 2017-01-05 15:39:40
 preview: /assets/images/cover_comanches.jpg
-code: MR_06/EP/2017
+code: MR_07EP2017
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
@@ -16,7 +16,7 @@ Comanches will release their first EP in May of 2017. Meanwhile you can get a pr
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=230095237/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://cxmanches.bandcamp.com/album/comanches">Comanches by Comanches</a></iframe>
 
 
-**GET COMANCHES ALBUM**<br>
+**PREORDER COMANCHES ALBUM**<br>
 [Comanches on Bandcamp](https://cxmanches.bandcamp.com)<br>
 [Vampira video on Youtube](https://www.youtube.com/watch?v=Mfl_D2bzXHE)
 
