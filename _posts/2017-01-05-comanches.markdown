@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Comanches"
+title: "Comanches. Zig-Zag"
 date: 2017-01-05 15:39:40
 preview: /assets/images/cover_comanches.jpg
-code: MR_07EP2017
+code: MR_08EP2017
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
