@@ -1,6 +1,6 @@
 ---
 layout:	post
-title: "Mañaneros. El sonido de lo inevitable"
+title: "Mañaneros - El sonido de lo inevitable"
 date: 2011-01-01 15:39:40
 preview: /assets/images/mananeros_inevitable.jpg
 code: MR_01EP2011

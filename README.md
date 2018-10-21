@@ -1,8 +1,6 @@
 Mañana Records
 ======================
 
-Sitio del Netlabel chileno Mañana Records
-
 El sitio esta desarrollado en Jekyll y hospedado en Github Pages
 
 ## Instalación

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mañaneros. Entra"
+title: "Mañaneros - Entra"
 date: 2015-10-08 15:39:40
 preview: /assets/images/artworks-000103153908-aikhh9-t500x500.jpg
 code: MR_03LP2015

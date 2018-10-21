@@ -1,21 +1,14 @@
-<div class="col">
-    <center>
-        <img src="/assets/images/logo.gif" class="logito">
-        <h2 class="title-2">New Releases</h2>
-    </center>
-</div>
 
-{% for post in site.posts %}
-    {% cycle 'add row' : '<div class="row">', nil, nil, nil %}
-        <div class="col-sm-3">
+<div class="row">
+    {% for post in site.posts %}
+        <div class="col-md-4">  
             <div class="preview-panel">
                 <a href="{{ post.url | prepend: site.baseurl }}">
                     <img src="{{ post.preview | prepend: site.baseurl }}">
                 </a>
                 <br><br>
                 <code class="highlighter-rouge" style="font-size:12px;padding:0;">[{{ post.code }}]</code><h4 style="margin-top:5px;">{{ post.title }}</h4>
-           </div>
+            </div>
         </div>
-{% cycle 'end row' : nil, nil, nil, '</div>' %}
-{% endfor %}
-<!-- {% cycle 'end row' :nil,  nil, '</div>', '</div>' %} -->
+    {% endfor %}
+</div>
