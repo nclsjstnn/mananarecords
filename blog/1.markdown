@@ -19,4 +19,4 @@ Esta es la primera canción que se produjo en nuestro estudio, de la mano de Pab
 
 Pónganse los audífonos y escuchen esta canción:
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/c0013ONGfMo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include youtube.html id='c0013ONGfMo' %} 
