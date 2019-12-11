@@ -16,6 +16,6 @@ permalink: /blog/
   <ul class="contact-list">
     <li><span class="icon">
       <i class="fa fa-rocket"></i>
-        </span><a href="/blog/1">Los discursos de odio y la música<img src="/assets/images/portada2.jpg"></a></li>
+        </span><a href="/blog/2">Los discursos de odio y la música<img src="/assets/images/portada2.jpg"></a></li>
   </ul>
 </div>
