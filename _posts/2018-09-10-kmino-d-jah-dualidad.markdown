@@ -3,7 +3,7 @@ layout: post
 title: "KMINO D JAH - Homónimo"
 date: 2017-04-20 16:20:00
 preview: /assets/images/COVER_KMINODJAH.jpg
-code: MR_07LP2017
+code: MANANA09LP
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

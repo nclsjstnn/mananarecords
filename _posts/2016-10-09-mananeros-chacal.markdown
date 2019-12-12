@@ -3,7 +3,7 @@ layout: post
 title:  "Mañaneros - Chacal"
 date:   2016-10-09 15:39:40
 preview: /assets/images/artworks-000147830750-xmar0i-t500x500.jpg
-code: MR_04LP2016
+code: MANANA05LP
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

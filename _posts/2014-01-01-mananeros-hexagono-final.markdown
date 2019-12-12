@@ -3,7 +3,7 @@ layout: post
 title: "Mañaneros - Hexágono Final"
 date: 2014-01-01 15:39:40
 preview: /assets/images/artworks-000051023379-rnbmtn-t500x500.jpg
-code: MR_02LP2011
+code: MANANA02LP
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

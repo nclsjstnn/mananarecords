@@ -17,5 +17,5 @@ permalink: /blog/
     </article>
   </div>
   {% include share.html %}
-  <br><br><br>
+  <br>
 {% endfor %}
