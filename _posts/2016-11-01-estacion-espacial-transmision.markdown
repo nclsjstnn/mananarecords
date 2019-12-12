@@ -18,11 +18,4 @@ code: MANANA06LP
 [Estacion Espacial Bandcamp](https://estacionespacialtropicodecapricornio.bandcamp.com)<br>
 [His 360 VR video on Youtube](https://www.youtube.com/embed/D3_rOKfQ3M4)
 
-{% include followus.html %}
-
-<!--
-## Estación espacial 360 VR video: Carta de Ajustes
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/D3_rOKfQ3M4?rel=0" frameborder="0" allowfullscreen></iframe>-->
 

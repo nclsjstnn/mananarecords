@@ -23,7 +23,5 @@ Although their first EP, was a sonic catarsis of pure experimentation, "Hexágon
 [ClubFonograma.com](http://www.clubfonograma.com/2013/07/mananeros-hexagono-final.html)<br>
 [Minuscula.pe](http://www.minuscula.pe/video-mananeros-jocelyn/)<br>
 
-{% include followus.html %}
-
 
 

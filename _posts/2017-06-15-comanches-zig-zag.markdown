@@ -21,5 +21,4 @@ code: MANANA08EP
 [Comanches on Bandcamp](https://cxmanches.bandcamp.com)<br>
 [Vampira video on Youtube](https://www.youtube.com/watch?v=Mfl_D2bzXHE)
 
-{% include followus.html %}
 

@@ -17,5 +17,3 @@ Chacal es el reciente LP de Mañaneros, disco que te invita a bailar, a reflexio
 **GET MAÑANEROS ALBUM**<br>
 [Hexágono Final on Soundcloud](https://soundcloud.com/mananeros/sets/hexagonofinal)<br>
 [Hexágono Final on Youtube](https://www.youtube.com/watch?v=aG5-YZx2JLA&list=PL9tNcJHjgqQEUzoXa1Gu4Y166S2x0MqaM)<br>
-
-{% include followus.html %}

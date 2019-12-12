@@ -21,5 +21,3 @@ code: MANANA03LP
 **PRESS**<br>
 [Soundsandcolours.com](http://soundsandcolours.com/articles/chile/premiere-mananeros-karol-romanoff-interview-25794/)<br>
 [Clubfonograma.com](http://www.clubfonograma.com/2014/07/mananeros-vass.html)
-
-{% include followus.html %}

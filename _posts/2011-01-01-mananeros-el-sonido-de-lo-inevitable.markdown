@@ -19,4 +19,3 @@ Their first EP, el "Sonido de lo Inevitable" is an always changing 5 tracks piec
 [El sonido de lo inevitable on Soundcloud](https://soundcloud.com/mananeros/sets/el-sonido-de-lo-inevitable)<br>
 [El sonido de lo inevitable on Youtube](https://www.youtube.com/watch?v=sh-ZE07h8yA&list=PL9tNcJHjgqQFrZIorphomiSBUOZMWHEne)
 
-{% include followus.html %}

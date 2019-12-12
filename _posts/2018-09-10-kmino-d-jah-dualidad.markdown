@@ -15,5 +15,4 @@ code: MANANA09LP
 **ORDER KMINO D JAH ALBUM**<br>
 [KMINO D JAH on Bandcamp](https://kminodjah.bandcamp.com/releases)<br>
 
-{% include followus.html %}
 
