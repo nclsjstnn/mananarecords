@@ -11,7 +11,11 @@ youtube_channel: mananarecords
 soundcloud_channel: mananarecords
 facebook_channel:  mananarecords
 
-
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  blog:
+    output: true
+    sort_by: id

@@ -1,21 +1,17 @@
 ---
 layout: page
-title: Blog
+title: 
 permalink: /blog/
 ---
-
-<div class="footer-col.4  footer-col-4">
-  <ul class="contact-list">
-    <li><span class="icon">
-      <i class="fa fa-rocket"></i>
-        </span><a href="/blog/1">La batalla sobre las cenizas de Chile<img src="/assets/images/dd.jpg"></a></li>
-  </ul>
-</div>
-
-<div class="footer-col.4  footer-col-4">
-  <ul class="contact-list">
-    <li><span class="icon">
-      <i class="fa fa-rocket"></i>
-        </span><a href="/blog/2">Los discursos de odio y la música<img src="/assets/images/portada2.jpg"></a></li>
-  </ul>
-</div>
+{% for blog in site.blog reversed %}
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">
+        <a href="{{ blog.url }}">{{ blog.title }}</a></h1>
+    </header>
+    <article class="post-content">
+      {{ blog.content }}
+    </article>
+  </div>
+  <br><br><br>
+{% endfor %}
