@@ -15,5 +15,4 @@ code: MR_09LP2018
 **ORDER KMINO D JAH ALBUM**<br>
 [KMINO D JAH on Bandcamp](https://kminodjah.bandcamp.com/releases)<br>
 
-{% include followus.html %}
 

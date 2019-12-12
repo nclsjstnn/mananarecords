@@ -2,7 +2,7 @@
 title: Mañana Records
 email: hello@mananarecords.com
 description: > #
-    Mañana Records is a latin Net Label from Santiago de Chile.
+    Un sello discografico con sabor latino.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mananarecords.com" # the base hostname & protocol for your site
 
@@ -10,6 +10,7 @@ url: "http://mananarecords.com" # the base hostname & protocol for your site
 youtube_channel: mananarecords
 soundcloud_channel: mananarecords
 facebook_channel:  mananarecords
+twitter_channel:  mananarecords
 
 # Build settings
 markdown: kramdown
