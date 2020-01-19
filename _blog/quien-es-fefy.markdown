@@ -1,8 +1,8 @@
 ---
 id: 3
 layout:	post
-title: "Quién es Fefy La Maldyta Escritura de Oro"
-preview: /assets/images/fefy.jpeg
+title: "Quién es Fefy La Maldyta o La Escritura de Oro"
+preview: /assets/images/Fefy.jpeg
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
