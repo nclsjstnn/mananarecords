@@ -1,5 +1,5 @@
 ---
-id: 2
+id: 3
 layout:	post
 title: "Quién es Fefy La Maldyta Escritura de Oro"
 preview: /assets/images/fefy.jpeg
@@ -19,9 +19,9 @@ FEFY **La Maldyta** o **La Escritura de Oro** es una artista de Cerro Navia y La
 
 Siempre nos ha llamado la atención los artistas que se autogestionan y que buscan cualquier forma para comunicar lo que tienen en su interior. Con FEFY nos pasó eso, nos dimos cuenta que sus letras eran muy poderosas y que tenía un estilo que no habíamos visto en ninguna parte. Por eso decidimos producirle una canción y ayudarla a abrirse paso en el mercado latino.
 
-![ff](/assets/images/fefy1.jpeg)
-![ff](/assets/images/fefy2.jpeg)
-![ff](/assets/images/fefy3.jpeg)
+![ff](/assets/images/Fefy1.jpeg)
+![ff](/assets/images/Fefy2.jpeg)
+![ff](/assets/images/Fefy3.jpeg)
 
 
 Unas de nuestros objetivos como Netlabel es desarrollar una nueva escena que convoque a creadores de contenido autodidactas que no han encontrado un lugar en la industria. Así es como dimos con FEFY y así es como iremos encontrando nuevos artistas.
