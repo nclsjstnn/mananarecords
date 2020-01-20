@@ -29,7 +29,7 @@ Unos de nuestros objetivos como Netlabel es desarrollar una nueva escena que con
 ![ff](/assets/images/Fefy2.jpeg)
 ![ff](/assets/images/Fefy3.jpeg)
 
-Además de la canción, grabamos un videoclip el cual fue dirigido por Ignacio Carcavilla y Marco Pereira, miembros de ["Kmino de Jah"](https://open.spotify.com/artist/41IYMAZHIqnwRv3hWza1Gq?si=8R95rVgxRHaEExiEEk8epQ) y parte del staff de ["Producciones Audiovisuales"  ](https://www.youtube.com/channel/UCMdQmEtJkzu2CzvaJxHv9jQ) quienes estuvieron a la cabeza del video de "Santiago Vice" de Jay Ferragamo y Pablo Chill-E y de la webserie "Cuento de Ángel de la Muerte". El video "Dile" es un gran carta de presentación de FEFY para que todos los que no la conocen, puedan saber de una quién es. Este video pronto estará disponible en la cuenta de Youtube de Fefy.
+Además de la canción, grabamos un videoclip el cual fue dirigido por Ignacio Carcavilla y Marco Pereira, miembros de ["Kmino de Jah"](https://open.spotify.com/artist/41IYMAZHIqnwRv3hWza1Gq?si=8R95rVgxRHaEExiEEk8epQ) y parte del staff de ["Soluciones Audiovisuales"](https://www.youtube.com/channel/UCMdQmEtJkzu2CzvaJxHv9jQ) quienes estuvieron a la cabeza del video de "Santiago Vice" de Jay Ferragamo y Pablo Chill-E y de la webserie "Cuento de Ángel de la Muerte". El video "Dile" es un gran carta de presentación de FEFY para que todos los que no la conocen, puedan saber de una quién es. Este video pronto estará disponible en la cuenta de Youtube de Fefy.
 
 ⏯[Youtube](https://www.youtube.com/channel/UCBtOIBrzoJFp0yAQxkKTDxA)
 
