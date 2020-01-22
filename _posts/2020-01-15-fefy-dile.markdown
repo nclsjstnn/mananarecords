@@ -8,21 +8,17 @@ code: MANANA11SINGLE
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` Fefy **"La Maldyta"** o **"Escritura de Oro"** es una artista chilena, cantante de rap, trap y reaggetón, residente de La Granja y Cerro Navia.
+`[{{ page.code }}]` Fefy **"La Maldyta"** o **"Escritura de Oro"** es una artista chilena, cantante de rap, trap y reaggetón.
 
 Es reconocida por sus canciones **“dile”** **“dolor y rencor”** y **“desamor”** las cuales grabó con su celular y subio a youtube, convirtiéndose rápidamente en virales, por la calidad de sus letras y por sobretodo, el nuevo estilo que trae. Así fue como llegamos a ella y le propusimos grabar algo en conjunto.
 
 ![ff](/assets/images/Fefy1.jpeg)
 
-De esas canciones, elegimos **Dile** para producirla y transformarla en su primer single que puedes escuchar aquí:
+De esas canciones, elegimos **Dile** para producirla y transformarla en su primer single. La canción cuenta una historia de amor de Fefy y su ex el cual le dice que le diga a la otra  que no la puede olvidar, que en cada pensamiento aparece Fefy recordándole que por más que quiera sacarla de su vida, es imposible, porque Fefy es inolvidable, así de maldita.que puedes escuchar aquí:
 
-<iframe src="https://open.spotify.com/embed/album/5NE8nPG7fLOQ9XKWSpcDgC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<iframe src="https://open.spotify.com/embed/album/5NE8nPG7fLOQ9XKWSpcDgC" width="350" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Si quieres conocer más de FEFY puedes seguirla en sus redes sociales:
-
-😎[Instagram](https://www.instagram.com/fefyvisser/)
-🔥[Facebook](https://www.facebook.com/Fefy-La-Escritura-de-Oro-794632774060544/)
-⏯[Youtube](https://www.youtube.com/channel/UCBtOIBrzoJFp0yAQxkKTDxA)
-
-{% include followus.html %}
+<br>😎[Instagram](https://www.instagram.com/fefyvisser/)
+<br>🔥[Facebook](https://www.facebook.com/Fefy-La-Escritura-de-Oro-794632774060544/)
+<br>⏯[Youtube](https://www.youtube.com/channel/UCBtOIBrzoJFp0yAQxkKTDxA)
