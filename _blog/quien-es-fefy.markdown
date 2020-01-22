@@ -19,6 +19,10 @@ La describimos como una persona real, siempre con ganas de decir las cosas como 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yTtz2jhlvfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### ***¿Cómo entra FEFY a la escena musical chilena?***
+
+La escena del género urbano chilena ha dado talentos de todos los estilos durante los últimos años, internacionalizando incluso la carrera de muchos y muchas artistas, como Polimá Westcoast, Pablo Chill-e o Paloma Mami -por nombrar una fracción mínima de ejemplos- o incluso, creando nuevas estéticas, como el neoperreo, curado en general por Tomasa del Real y decenas de colaboradores. Pero aún así, el caso de Fefy es, si se quiere, insólito. Primero, por su origen: Fefy existía en el imaginario de internet mucho antes de haber lanzado el pasado lunes 20 su primer single, "Dile", que circulaba como un video tomado como selfie por la misma Fefy donde cantaba una versión primitiva de la canción, que se llenó de comentarios de todo tipo. Segundo, porque Fefy es real, como pocos artistas pueden jactarse de ser reales. Su forma de hablar, sus letras y su presencia, denotan una vida que no puede sino resonar en la mayoría de la gente de clase trabajadora en Chile, lo que la hace, incluso con la variedad gigante de personalidades y símbolos en la escena actual, única.
+
 ### ***¿Por qué nos llamó la atención FEFY?***
 
 Siempre nos ha llamado la atención los artistas que se autogestionan y que buscan cualquier forma para comunicar lo que tienen en su interior. Con FEFY nos pasó eso, nos dimos cuenta que sus letras eran muy poderosas y que tenía un estilo que no habíamos visto en ninguna parte. Por eso decidimos producirle una canción y ayudarla a abrirse paso en el mercado latino. Además, cuando la conocimos, nos dimos cuenta que tiene muchas ganas de hacer explotar todo su taleto y de crear una nombre que sea reconocido en la escena musical. Sabemos que lo logrará.
