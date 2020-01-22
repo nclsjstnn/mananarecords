@@ -11,7 +11,7 @@ Si no conoces a FEFY entonces es el momento de hacerlo. Sin duda la amarás porq
 
 <!--break-->
 
-FEFY **La Maldyta** o **La Escritura de Oro** es una artista de Cerro Navia y La Granja, amante del rap, trap y del reggeatón. Tiene 18 años y se hizo conocida cuando subió a Youtube la canción: "Dile" la cual rápidamente se hizo viral, a pesar de ser grabada con un celular, pero la intensidad de sus letras fue lo que cautivó a sus seguidores y lo que nos hizo darnos cuenta que había algo muy potente en ella: un nuevo mensaje al mundo. Además de Dile, tiene otros hits que ha autogestionado: "desamor" y "Dolor y Rencor"
+FEFY **La Maldyta** o **La Escritura de Oro** es una artista de Cerro Navia y La Granja, amante del rap, trap y del reggeatón. Tiene 20 años y se hizo conocida cuando subió a Youtube la canción: "Dile" la cual rápidamente se hizo viral, a pesar de ser grabada con un celular, pero la intensidad de sus letras fue lo que cautivó a sus seguidores y lo que nos hizo darnos cuenta que había algo muy potente en ella: un nuevo mensaje al mundo. Además de Dile, tiene otros hits que ha autogestionado: "desamor" y "Dolor y Rencor"
 
 ### ***¿Cómo describimos a FEFY?***
 
