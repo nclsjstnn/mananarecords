@@ -18,6 +18,8 @@ FEFY **La Maldyta** o **La Escritura de Oro** es una artista de Cerro Navia y La
 
 La describimos como una persona real, siempre con ganas de decir las cosas como son, de expresar lo que las mujeres viven diariamente, es auténtica con corazón noble y de una sensibilidad gigantesca. Además es intensa en partes iguales, con un flow certero que se refleja en todas sus creaciones.
 
+*La canción cuenta una historia de amor de Fefy y su ex, el cual le dice que le diga a la otra  que no la puede olvidar, que en cada pensamiento aparece Fefy, recordándole que por más que quiera sacarla de su vida, es imposible, porque Fefy es inolvidable, así de maldita.*
+
 ### ***¿Cómo entra FEFY a la escena musical chilena?***
 ![ff](/assets/images/Fefy3.jpeg)
 
@@ -34,8 +36,6 @@ Además de la canción, grabamos un videoclip el cual fue dirigido por Ignacio C
 
 ⏯[Youtube](https://www.youtube.com/channel/UCBtOIBrzoJFp0yAQxkKTDxA)
 
-Por ultimo, te dejamos esta mega producción para que disfrutes y compartas para que se vuelva el hit del verano2020:
+Por ultimo, te dejamos con esta mega producción para que disfrutes y compartas para que se vuelva el hit del verano2020:
 
-<iframe src="https://open.spotify.com/embed/album/5NE8nPG7fLOQ9XKWSpcDgC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
-{% include followus.html %}
+<iframe src="https://open.spotify.com/embed/album/5NE8nPG7fLOQ9XKWSpcDgC" width="350" height="180" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
