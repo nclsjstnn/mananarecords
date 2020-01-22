@@ -24,3 +24,5 @@ Si quieres conocer más de FEFY puedes seguirla en sus redes sociales:
 😎[Instagram](https://www.instagram.com/fefyvisser/)
 🔥[Facebook](https://www.facebook.com/Fefy-La-Escritura-de-Oro-794632774060544/)
 ⏯[Youtube](https://www.youtube.com/channel/UCBtOIBrzoJFp0yAQxkKTDxA)
+
+{% include followus.html %}
