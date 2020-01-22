@@ -36,3 +36,5 @@ Además de la canción, grabamos un videoclip el cual fue dirigido por Ignacio C
 Por ultimo, te dejamos esta mega producción para que disfrutes y compartas para que se vuelva el hit del verano2020:
 
 <iframe src="https://open.spotify.com/embed/album/5NE8nPG7fLOQ9XKWSpcDgC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+{% include followus.html %}
