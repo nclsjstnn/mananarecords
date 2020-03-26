@@ -10,7 +10,9 @@ code: MANANA12SINGLE
 
 `[{{ page.code }}]` THE MOLEDOR, LA BLESSTIA, MCN, DJ KANNABIKO y la nueva flamante incorporación Niño Indico vuelven con un nuevo single tan sativo que te dejará derretido en tu silla rasta.
 
-Según los artistas, la canción silla rasta trata sobre las cosas simples de la vida, como sentarse en una silla y fumar una buena bless, y nos transporta a los momentos de amable quietud donde la vida decanta en nosotros, donde podemos observar y maravillarnos con el mundo que nos rodea sin mayores pretensiones, solo disfrutando lo que jah tiene para ofrecernos frente a nuestros ojos.
+Según los artistas, la canción silla rasta trata sobre las cosas simples de la vida, como sentarse en una silla y fumar una buena bless, y nos transporta a los momentos de amable quietud donde la vida decanta en nosotros, donde podemos observar y maravillarnos con el mundo que nos rodea sin mayores pretensiones, simplemente disfrutando lo que jah nos ofrece y ha puesto frente a nuestros ojos.
+
+##Valoración
 
 "*aquí estamos relajaos echaos pa atrás cada uno en su propia silla rasta*" - **Hits Sentimentales**
 
