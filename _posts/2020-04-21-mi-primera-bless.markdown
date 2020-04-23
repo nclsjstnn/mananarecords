@@ -1,8 +1,10 @@
 ---
 id: 5
 layout:	post
+date: 2020-04-21 00:00:00
 title: "Mi primera bless"
 preview: /assets/images/primera-bless.jpeg
+categories: [blog]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

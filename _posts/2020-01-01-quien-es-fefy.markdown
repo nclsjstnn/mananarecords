@@ -1,8 +1,10 @@
 ---
 id: 3
 layout:	post
+date: 2020-01-01 00:00:00
 title: "Quién es Fefy La Maldyta o La Escritura de Oro"
 preview: /assets/images/Fefy.jpeg
+categories: [blog]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

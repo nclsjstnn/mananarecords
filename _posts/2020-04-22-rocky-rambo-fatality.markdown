@@ -3,7 +3,8 @@ layout: post
 title: "Rocky Rambo - Fatality"
 date: 2020-04-22 18:20:00
 preview: /assets/images/fatality.png
-code: MANANA17SINGLE
+code: MNN015
+categories: [releases, single]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

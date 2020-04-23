@@ -3,7 +3,8 @@ layout:	post
 title: "Mañaneros - El sonido de lo inevitable"
 date: 2011-01-01 15:39:40
 preview: /assets/images/mananeros_inevitable.jpg
-code: MANANA01EP
+code: MNN001
+categories: [releases, ep]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

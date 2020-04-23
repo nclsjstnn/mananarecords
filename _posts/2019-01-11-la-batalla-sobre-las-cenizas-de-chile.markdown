@@ -1,8 +1,10 @@
 ---
 id: 1
 layout:	post
+date: 2019-01-11 00:00:00
 title: "La batalla sobre las cenizas de Chile"
 preview: /assets/images/dd.jpg
+categories: [blog]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

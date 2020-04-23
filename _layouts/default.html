@@ -4,16 +4,27 @@
 {% include head.html %}
 
 <body>
-
-    {% include header.html %}
-
-    <div class="page-content">
-        <div class="wrapper">
-            {{ content }}
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <center>
+                    <a class="site-title" href="{{ site.baseurl }}/"><img src="/assets/images/logo.png"></a>
+                </center>
+                {% include social.html %}
+                <div class="blog-notice">
+                    <span>
+                        RECIBE LAS NOTICIAS DEL MAÑANA
+                    </span>
+                    {% include newsletter.html %}
+                </div>
+                {% include preview.html %}
+            </div>
+            <div class="col-md-8">
+                {{ content }}
+            </div>
         </div>
     </div>
-
-    {% include newsletter.html %} {% include footer.html %}
+    {% include footer.html %}
 
 </body>
 

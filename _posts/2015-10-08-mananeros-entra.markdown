@@ -3,7 +3,8 @@ layout: post
 title: "Mañaneros - Entra"
 date: 2015-10-08 15:39:40
 preview: /assets/images/artworks-000103153908-aikhh9-t500x500.jpg
-code: MANANA03LP
+code: MNN003
+categories: [releases, ep]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

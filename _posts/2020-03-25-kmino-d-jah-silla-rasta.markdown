@@ -3,7 +3,8 @@ layout: post
 title: "Kmino d Jah - Silla Rasta"
 date: 2020-03-25 16:20:00
 preview: /assets/images/sillarasta.jpeg
-code: MANANA12SINGLE
+code: MNN012
+categories: [releases, single]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

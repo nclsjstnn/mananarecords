@@ -3,7 +3,8 @@ layout: post
 title: "Comanches - Zig-Zag"
 date: 2017-06-15 15:39:40
 preview: /assets/images/Originales_COMANCHES_RGB_CC2017.jpg
-code: MANANA08EP
+code: MNN008
+categories: [releases, ep]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

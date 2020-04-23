@@ -3,7 +3,8 @@ layout: post
 title: "KMINO D JAH - Dualidad"
 date: 2018-09-10 16:20:00
 preview: https://f4.bcbits.com/img/a0733022427_16.jpg
-code: MANANA07LP
+code: MNN007
+categories: [releases, lp]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

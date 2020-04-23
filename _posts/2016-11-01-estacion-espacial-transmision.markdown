@@ -3,7 +3,8 @@ layout: post
 title: "Estación Espacial - Transmisión Vía Satélite"
 date: 2016-11-01 15:39:40
 preview: /assets/images/COVER_TRANSMISION.jpg
-code: MANANA06LP
+code: MNN006
+categories: [releases, lp]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}

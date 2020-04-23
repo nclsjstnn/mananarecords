@@ -2,7 +2,9 @@
 id: 2
 layout:	post
 title: "Los discursos de odio y la música"
+date: 2019-01-12 00:00:00
 preview: /assets/images/portada2.jpg
+categories: [blog]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
