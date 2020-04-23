@@ -8,14 +8,18 @@ code: MANANA17SINGLE
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` **Rocky Rambo** lanza su nueva canción - ***Fatality***, un trap oscuro que nos traslada a esas noches humedas, llenas de humo, vapor inconsciente, sin estrellas. Esas noches donde el neon nos desfigura la cara y los aullidos de los perros se dejan caer como gargolas a las 7 de la mañana.
+`[{{ page.code }}]` **Rocky Rambo** lanza su nueva canción - ***Fatality***, un trap oscuro que relata los momentos de mierda que tienes que vivir por ser mujer. Acoso y miedo.
 
-*Fatality - Fatality - Te hago un Fatality*
+Esta canción es una catarsis. Un grito de odio y un golpe directo al corazón. Ideal para esas noches donde el neon nos desfigura la cara y los aullidos de los perros se dejan caer como gargolas a las 7 de la mañana.
+
+*"Fatality - Fatality - Te hago un Fatality"*
 
 Una canción que viene de los rincones de los cerros de Valpo.
 Una melodía que araña tu espina dorsal.
 La letra de la mismísima visceras de Rocky Rambo.
 Una canción que te saluda como Hello Kitty y te golpea como las patadas de Chun-Li.
+
+*"enterrada a metros de su casa, dime q es mentira no entiendo q mierda pasa"*
 
 Sin duda, un hit que escucharás mientras caminas con los ojos hinchados en sangre directo a tu cama.
 
