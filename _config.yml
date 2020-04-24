@@ -2,7 +2,7 @@
 title: Mañana Records
 email: hello@mananarecords.com
 description: > #
-    Un sello discografico con sabor latino.
+    Somos un sello discografico con sabor latino.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://mananarecords.com" # the base hostname & protocol for your site
 paginate: 5

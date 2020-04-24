@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rocky Rambo x MAÑANA RECORDS"
+title: "Rocky Rambo x MÑN"
 date: 2020-04-22 18:20:00
 preview: /assets/images/fatality.png
 code: MNN015

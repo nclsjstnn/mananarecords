@@ -391,9 +391,32 @@
     text-align: center;
 }
 
-.site-title img {
-    width: 200px;
-    margin: 40px auto 20px auto;
+.site-title {
+    h1 {
+        font-size: 35px;
+        line-height: 34px;
+        font-family: $base-font-family-bold;
+        font-weight: bold;
+        text-transform: uppercase;
+        letter-spacing: -4px;
+        text-align: center;
+        color: black;
+    }
+    img {
+        width: 200px;
+        margin: 40px auto 20px auto;
+    }
+}
+
+.sidebar-title {
+    font-size: 35px;
+    line-height: 34px;
+    font-family: $base-font-family-bold;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: -4px;
+    text-align: center;
+    color: black;
 }
 
 #mc_embed_signup label {
@@ -470,7 +493,8 @@
 }
 
 .blog-notice {
-    background-image: url('/assets/images/source.gif');
+    background-image: url('/assets/images/triangle-loop.gif');
+    background-position: center;
     text-align: center;
     padding: 20px 10px;
     margin: 28px 0;
