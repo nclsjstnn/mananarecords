@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mañaneros - Hexágono Final"
+title: "Mañaneros, Hexágono Final"
 date: 2014-01-01 15:39:40
 preview: /assets/images/artworks-000051023379-rnbmtn-t500x500.jpg
 code: MNN002
@@ -9,7 +9,7 @@ categories: [releases, ep]
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` {% include mananeros_bio.html %}
+{% include mananeros_bio.html %}
 
 Although their first EP, was a sonic catarsis of pure experimentation, "Hexágono Final" is a more mature production, with catchy anthems like "Paragua Danger", a beatiful folk balad "Lamento" and the dark reggaeton Señora Jocelyn.
 

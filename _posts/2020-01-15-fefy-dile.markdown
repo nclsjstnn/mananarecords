@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "FEFY - La Maldyta Escritura de Oro"
+title: "FEFY, La Maldyta Escritura de Oro"
 date: 2020-01-15 16:20:00
 preview: /assets/images/Fefy.jpeg
 code: MNN011
@@ -9,7 +9,7 @@ categories: [releases, single]
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` Fefy **"La Maldyta"** o **"Escritura de Oro"** es una artista chilena, cantante de rap, trap y reaggetón.
+Fefy **"La Maldyta"** o **"Escritura de Oro"** es una artista chilena, cantante de rap, trap y reaggetón.
 
 Es reconocida por sus canciones **“dile”** **“dolor y rencor”** y **“desamor”** las cuales grabó con su celular y subio a youtube, convirtiéndose rápidamente en virales, por la calidad de sus letras y por sobretodo, el nuevo estilo que trae. Así fue como llegamos a ella y le propusimos grabar algo en conjunto.
 

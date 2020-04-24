@@ -1,6 +1,6 @@
 ---
 layout:	post
-title: "Mañaneros - El sonido de lo inevitable"
+title: "Mañaneros, El sonido de lo inevitable"
 date: 2011-01-01 15:39:40
 preview: /assets/images/mananeros_inevitable.jpg
 code: MNN001
@@ -9,7 +9,7 @@ categories: [releases, ep]
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` {% include mananeros_bio.html %}
+{% include mananeros_bio.html %}
 
 Their first EP, el "Sonido de lo Inevitable" is an always changing 5 tracks piece, going from tribal to bossa nova with highlights of "El Volcan", one of the "30 best songs of 2011 by Club Fonorgrama", and "Baby Tropical", an "internet-esque" tribal full of sonic textures and latin crazyness.
 

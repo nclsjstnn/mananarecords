@@ -1,21 +1,23 @@
-{% for post in paginator.posts %}
-<div class="post">
-    <header class="post-header">
-        <h1 class="post-title">
-            <a href="{{ post.url }}">{{ post.title }}</a></h1>
-    </header>
-    <article class="post-content">
-        {{ post.content | split:'
-        <!--break-->' | first }} {% if post.content contains '
-        <!--break-->' %}
-        <p class="right">
-            <a href="{{site.baseurl}}{{ post.url }}">Sigue Leyendo -></a>
-        </p>
-        {% endif %}
-    </article>
+<div style="margin-top: 60px">
+    {% for post in paginator.posts %}
+        <div class="post">
+            <header class="post-header">
+                <h1 class="post-title">
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                </h1>
+            </header>
+            <article class="post-content">
+                {{ post.content | split:'<!--break-->' | first }} 
+                {% if post.content contains '<!--break-->' %}
+                <p class="right">
+                    <a href="{{site.baseurl}}{{ post.url }}">Sigue Leyendo -></a>
+                </p>
+                {% endif %}
+            </article>
+        </div>
+        <img src="/assets/images/logo.png" class="separator">
+    {% endfor %}
 </div>
-<br> 
-{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">

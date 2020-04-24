@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mañaneros - Chacal"
+title:  "Mañaneros, Chacal"
 date:   2016-10-09 15:39:40
 preview: /assets/images/artworks-000147830750-xmar0i-t500x500.jpg
 code: MNN005
@@ -9,7 +9,7 @@ categories: [releases, lp]
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` {% include mananeros_bio.html %}
+{% include mananeros_bio.html %}
 
 Chacal es el reciente LP de Mañaneros, disco que te invita a bailar, a reflexionar y a viajar a los rincones más oscuros del sonido, aquí la banda sigue en la búsqueda y experimentación con ritmos sincopados, si tuviesemos que taguearlos pondríamos: #Satánico #Housero #OVNI #Darks y #Sabrozón.
 

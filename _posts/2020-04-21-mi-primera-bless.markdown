@@ -2,7 +2,7 @@
 id: 5
 layout:	post
 date: 2020-04-21 00:00:00
-title: "Mi primera bless"
+title: "Cronica: LA PRIMERA BLESS DE PEDRO"
 preview: /assets/images/primera-bless.jpeg
 categories: [blog]
 ---

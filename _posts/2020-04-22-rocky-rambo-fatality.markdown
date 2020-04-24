@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rocky Rambo - Fatality"
+title: "Rocky Rambo x MAÑANA RECORDS"
 date: 2020-04-22 18:20:00
 preview: /assets/images/fatality.png
 code: MNN015
@@ -9,7 +9,7 @@ categories: [releases, single]
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
 
-`[{{ page.code }}]` **Rocky Rambo** lanza su nueva canción - ***Fatality***, un trap oscuro que relata los momentos de mierda que tienes que vivir por ser mujer. Acoso y miedo.
+**Rocky Rambo** lanza su nueva canción - ***Fatality***, un trap oscuro que relata los momentos de mierda que tienes que vivir por ser mujer. Acoso y miedo.
 
 Esta canción es una catarsis. Un grito de odio y un golpe directo al corazón. Ideal para esas noches donde el neon nos desfigura la cara y los aullidos de los perros se dejan caer como gargolas a las 7 de la mañana.
 

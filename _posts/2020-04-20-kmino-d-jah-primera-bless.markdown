@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kmino d Jah - Mi primera Bless"
+title: "Kmino d Jah, Mi primera Bless"
 date: 2020-04-20 16:20:00
 preview: /assets/images/primera-bless.jpeg
 code: MNN014
@@ -8,8 +8,6 @@ categories: [releases, single]
 ---
 
 ![{{ page.title }}]({{ page.preview }}){: class="fullsize"}
-
-`[{{ page.code }}]`
 
 Kmino d Jah ha lanzado un nuevo hits. Su tercer single del tercer álbum. Esta vez, nos invitan a viajar por el tiempo, por el espacio por esos recovecos de nuestra mente donde se anidan los recuerdos más preciados. Kmino d Jah a través de su música, te toma de la mano y te tira el humo a la cara, ese humo que mantuvieron guardado desde su primera Bless.
 

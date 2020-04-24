@@ -283,7 +283,7 @@
 
 @media (min-width: 768px) {
     .post {
-        padding: 60px 0 0 30px;
+        padding-left: 30px;
     }
 }
 
@@ -470,7 +470,7 @@
 }
 
 .blog-notice {
-    background-image: url('/assets/images/coolemoticons.gif');
+    background-image: url('/assets/images/source.gif');
     text-align: center;
     padding: 20px 10px;
     margin: 28px 0;
@@ -482,7 +482,23 @@
         text-transform: uppercase;
         font-weight: bold;
         letter-spacing: -2px;
-        line-height: 1.1;
+        line-height: 1.2;
         text-align: center;
+    }
+}
+
+.separator {
+    height: 55px;
+    width: auto;
+    display: block;
+    text-align: center;
+    margin: 30px auto;
+}
+
+@media (max-width: 768px) {
+    .separator {
+        width: auto;
+        height: 35px;
+        margin: 40px auto;
     }
 }
