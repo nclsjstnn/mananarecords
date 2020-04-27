@@ -11,6 +11,8 @@ categories: [releases, single]
 
 **Rocky Rambo** lanza su nueva canción - ***Fatality***, un trap oscuro que relata los momentos de mierda que tienes que vivir por ser mujer. Acoso y miedo.
 
+<!--break-->
+
 Esta canción es una catarsis. Un grito de odio y un golpe directo al corazón. Ideal para esas noches donde el neon nos desfigura la cara y los aullidos de los perros se dejan caer como gargolas a las 7 de la mañana.
 
 *"Fatality - Fatality - Te hago un Fatality"*

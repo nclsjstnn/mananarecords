@@ -11,6 +11,8 @@ categories: [releases, ep]
 
 Comanches, es una pandilla de criminales que comparte su manera de apreciar lo que está mal grabando un albúm repleto de hits de invierno. Ellos la definen como la "nueva-nueva-ola". Ciertamente el sonido de Comanches es algo que escapa de cualquier referente actual, y te aseguramos que esto suena como una ola te bota, te revuelca y te manda a la mierda, y antes de soltarte te obliga a chocar con llamadas turbias, rituales paganos, autos de carrera, lencería, Luis Miguel, la Macarena, y un montón de ordinarieces más.
 
+<!--break-->
+
 
 "Zig-Zag", el nombre del albúm no es una coincidencia. En tan solo 5 tracks los Comanches te llevan por diversas sonoridades y ritmos. Un testamento único de una manada de lobos solitarios que se reúne a cantarle a la noche, sus criaturas y sus calabozos.
 
@@ -21,5 +23,3 @@ Comanches, es una pandilla de criminales que comparte su manera de apreciar lo q
 **GET COMANCHES ALBUM**<br>
 [Comanches on Bandcamp](https://cxmanches.bandcamp.com)<br>
 [Vampira video on Youtube](https://www.youtube.com/watch?v=Mfl_D2bzXHE)
-
-

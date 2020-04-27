@@ -11,6 +11,8 @@ categories: [releases, ep]
 
 Chakrosiev (Alberto Palmero) es un multifacético personaje que nos deleita con su mezcla de world music, siendo capaz de mezclar desde la música clásica, pasando por sonidos pachamámicos de todo el globo, llevándonos progresivamente a un Tuku Tuku de gran calibre.
 
+<!--break-->
+
 Al preguntarle de donde viene su pasión por la música, nos comenta que viene de su familia. Su padre viene de familia de ambos padres músicos, donde encontramos la tía abuela de Chakrosiev la conocida musicóloga Chilena Raquel Barros Aldunate. Fue su madre quien a temprana edad le mostró los acordes de la guitarra, pero rápidamente supo que lo suyo era la batería y la ritmica.
 
 Chakrosiev nos presenta su reciente mixtape titulado "хлеб обречено" (Pan con Palta), donde fusiona al cantautor chileno Victor Jara con Tchaikovsky.
@@ -23,4 +25,3 @@ Chakrosiev nos presenta su reciente mixtape titulado "хлеб обречено"
 [https://soundcloud.com/alberto-palmero](https://soundcloud.com/alberto-palmero)<br>
 
 {% include followus.html %}
-
