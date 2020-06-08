@@ -19,7 +19,11 @@ Ya todos hemos visto como el sistema se cae a pedazos, en parte porque ya no sop
 
 El ser humano se está reinventando para poder sobrevivir, como lo ha hecho a lo largo de toda su existencia. Así como todos los días se ha tenido que reiventar, tratando de ahogar esa voz que clama por la locura. Tratando de que la cabeza no le ruede por el suelo. Buscando encontrar el sentido, la dirección correcta, a pesar de todas las malas decisiones, de todos las injusticias y de todo el caos que conlleva estar vivo sumergido en un mar de concreto.
 
+![tren](https://66.media.tumblr.com/tumblr_mayphnUXuI1rdt98to1_500.gif)
+
 Y así es como se nos pasa la vida. Mirándonos al espejo mientras abrochas el uniforme y te preparas para unirte a la fila. Sonríes. Es un nuevo día. Miras por la ventana y todos marchan hacia el mismo punto. Silencias al mundo con ese setlist que tienes preparado para empujarte, paso a paso, hacia aquel destino que no añoras. Ese destino que te pesa como un grillete. Pero que conviertes en una pluma al respirar profundamente y llenar tu cerebro con oxigeno. Sigues la fila hasta llegar al tren. Te diriges al mismo punto, frente a una ventana para ver aparecer el sol detrás de la cordillera. La explosión de luz necesaria para que tus ideas y tu motivación se recarguen. Para finalmente decir: hoy día tampoco me rendiré...
+
+![tren2](https://66.media.tumblr.com/b1a6ba78f5dd734cb5af5580b75e4b96/tumblr_mzd9lcKlV11toamj8o1_500.gif)
 
 Entonces,
 
