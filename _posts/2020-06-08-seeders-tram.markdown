@@ -37,6 +37,8 @@ Es una canción que espera entregar esperanza, luz, ánimo a todos los que lo ne
 
 Esta es la canción para un nuevo Mañana:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-gcXhi_a0y0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/836060026&color=%230066cc&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/mananarecords" title="Mañana Records" target="_blank" style="color: #cccccc; text-decoration: none;">Mañana Records</a> · <a href="https://soundcloud.com/mananarecords/seeders-tram" title="Seeders - Tram" target="_blank" style="color: #cccccc; text-decoration: none;">Seeders - Tram</a></div>
 
 ***Más de Seeders***
