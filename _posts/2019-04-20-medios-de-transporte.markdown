@@ -3,7 +3,6 @@ layout: post
 title: "Medios de Transporte, Todos deben descender"
 date: 2019-04-20 16:20:00
 preview: /assets/images/65781828_1388967451250368_545422874786136064_n.png
-code: MNN010
 categories: [releases, ep]
 ---
 

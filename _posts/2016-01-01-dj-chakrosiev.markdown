@@ -3,7 +3,6 @@ layout: post
 title: Chackrosiev, "хлеб обречено" (Pan con Palta)
 date: 2016-01-01 15:39:40
 preview: /assets/images/artworks-000217816473-fu59fw-t500x500.jpg
-code: MNN004
 categories: [releases, ep]
 ---
 

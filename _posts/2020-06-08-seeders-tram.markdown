@@ -2,8 +2,7 @@
 layout: post
 title: "Tram - Lo nuevo de Seeders"
 date: 2020-06-08 18:20:00
-preview: /assets/images/tram.jpeg
-code: MNN016
+preview: /assets/images/seeders-tram.jpeg
 categories: [releases, single]
 ---
 
