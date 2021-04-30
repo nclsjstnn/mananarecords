@@ -3,7 +3,6 @@ layout: post
 title: "Seeders, Waiting for the job is done"
 date: 2020-03-29 16:20:00
 preview: /assets/images/seeders.jpg
-code: MNN013
 categories: [releases, single]
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: "FEFY, La Maldyta Escritura de Oro"
 date: 2020-01-15 16:20:00
 preview: /assets/images/Fefy.jpeg
-code: MNN011
 categories: [releases, single]
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title:  "Mañaneros, Chacal"
 date:   2016-10-09 15:39:40
 preview: /assets/images/artworks-000147830750-xmar0i-t500x500.jpg
-code: MNN005
 categories: [releases, lp]
 ---
 

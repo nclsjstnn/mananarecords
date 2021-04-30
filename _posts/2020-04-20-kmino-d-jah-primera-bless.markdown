@@ -3,7 +3,6 @@ layout: post
 title: "Kmino d Jah, Mi primera Bless"
 date: 2020-04-20 16:20:00
 preview: /assets/images/primera-bless.jpeg
-code: MNN014
 categories: [releases, single]
 ---
 
